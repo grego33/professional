@@ -13,28 +13,30 @@ With a broad technology background, I deliver impactful solutions in areas such 
 
 ## Experience  
 
-### SyncLogic (Freelance) – Full Stack Developer *(Nov 2024 – Present)*  
-- Full-stack development for an MVP-stage **Shop Management System** in Python, using **Pyodide, WebAssembly, and SQLAlchemy** to create scalable solutions for the auto repair industry.
+### **SyncLogic (Freelance) – Full Stack Developer** *(Nov 2024 – Present)*  
+- Developed full-stack solutions for an MVP-stage **Shop Management System** using **Python, Pyodide, WebAssembly, and SQLAlchemy** to create scalable tools for the auto repair industry.  
+- Engaged in **strategic discussions and client demos**, contributing to product direction, gathering feedback, and refining development priorities.  
 
-### PwC – Manager, Software Engineering *(Jul 2020 – Nov 2024)*  
-- **Bank Statement Processing Pipeline** – Designed a real-time transaction classification system using **Azure Document Intelligence, Service Bus, and Cosmos DB**, as well as **ABBYY FlexiCapture, and Databricks**, optimizing financial audit workflows.  
-- **GenAI for Information Extraction** – Hand-selected to participate in a **90-day AI innovation initiative**, developing prototypes for LLM-driven data extraction to influence strategic AI adoption.  
-- **Unstructured Document Ingestion System** – Designed and led early development of an AI-powered ingestion system leveraging **Azure Document Intelligence, LLMs, and custom ML models** to transform unstructured data into structured formats.  
-- **Cost Optimization Initiative** – Designed and Led early development for the replacement of a proprietary PDF extraction tool with a custom solution based on **Python, Airflow, and Kubernetes** **reducing costs by $3M** 
-- **Kafka to Azure Event Hubs Migration** – Led a **multi-million-dollar cloud migration**, transitioning from **Apache Kafka** to **Azure Event Hubs**, securing leadership buy-in and ensuring seamless execution.  
-- **Agile Leadership & Certifications** – Earned **SAFe POPM Certification** and applied Agile methodologies to multiple projects acting as the Product Owner and collaborating with business stakeholders and Product Managers.
+### **PwC – Manager, Software Engineering** *(Jul 2020 – Nov 2024)*  
+- Designed a **real-time PDF bank statement transaction classification system** using **Azure Document Intelligence, Service Bus, Cosmos DB, ABBYY FlexiCapture, and Databricks**, streamlining financial audit workflows.  
+- **Hand-selected for a 90-day dedicated AI innovation initiative**, leading the development of **LLM-driven data extraction prototypes** and shaping AI adoption strategies.  
+- Designed and led the early development of an **AI-powered document ingestion system**, leveraging **Airflow, Azure Document Intelligence, LLMs, and custom ML models** to convert unstructured data into structured formats.  
+- Engineered a **cost-saving replacement for a proprietary PDF extraction tool**, implementing a **Python, Airflow, and Kubernetes** solution that 
+**reduced costs by $3 Million**.  
+- Led a **migration from Apache Kafka to Azure Event Hubs**, securing leadership buy-in and ensuring a seamless transition that avoided **multi-million-dollar licensing costs**.  
+- Applied **Agile methodologies** across multiple projects, acting as **Product Owner**, collaborating with stakeholders, and leveraging **SAFe POPM certification** to drive product development.  
 
-### PwC – Senior Associate, Full-Stack Developer *(Sep 2017 – Jul 2020)*  
-- Developed a scalable **Intelligent Document Processing** engine using **OCR and AI** to identify and extract labels from unstructured documents.  
-- Designed and developed a streaming XML transformer to convert **ABBYY OCR** output into structured JSON.  
+### **PwC – Senior Associate, Full-Stack Developer** *(Sep 2017 – Jul 2020)*  
+- Developed a scalable **Intelligent Document Processing engine** using **OCR and AI** to extract labels from unstructured documents.  
+- Designed and implemented a **streaming XML transformer** to convert **ABBYY OCR output** into structured JSON.  
 - Built high-performance **NiFi-based processing flows**, integrating **REST services** and custom **Akka Streams** processors.  
-- Applied Strangler pattern to allow migration from **HDFS to Azure Blob Storage**, allowing for improved governance and abiding current enterprise guidelines.
+- Applied the **Strangler pattern** to migrate from **HDFS to Azure Blob Storage**, improving governance and ensuring compliance with enterprise data standards.  
 
-### Previous Roles  
+### **Previous Roles**  
 - **TEKsystems (2017)** – Contracted with PwC as a full-stack developer, specializing in **Scala, RabbitMQ, and OCR-based document extraction**.  
-- **KiteDesk (2015–2017)** – Java Architect, built **SaaS sales automation tools** with **AWS, Apache Cassandra, and Hazelcast**.  
-- **Benefitfocus (2007–2015)** – Software Architect, implemented scalable **Spring Batch** data pipelines, developed a **REST API**, and introduced **SonarQube** for code quality.  
-- **Michelin (1997–2006)** – Java Foundation Architect, led **enterprise application development** and **custom static code analysis**.  
+- **KiteDesk (2015–2017)** – Java Architect building **SaaS sales prospecting application** for an early-stage startup with **AWS, Apache Cassandra, and Hazelcast**.  
+- **Benefitfocus (2007–2015)** – Software Developer and Architect implementing scalable data pipelines for ingesting medical insurance individual and group records using custom solution built with **Java and Python** and later **Spring Batch**.  
+- **Michelin (1997–2006)** – Developer implementing customizations for **Metaphase PDMS** and other tooling related to passenger and truck tire design growing to Java Foundation Architect guiding early-stage projects in adoption of the Java language and an in-house application bootstrapping system.
 
 ---
 
@@ -45,7 +47,6 @@ With a broad technology background, I deliver impactful solutions in areas such 
 - **Certifications:**  
   - SAFe® 6 Product Owner/Product Manager  
   - Lightbend Scala Professional (Level 1 & 2)  
-  - Big Data Analysis with Scala & Spark  
 
 ---
 
